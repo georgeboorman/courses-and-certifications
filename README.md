@@ -1,2 +1,2 @@
-# certificates
-Data science, data engineering, and MLOps courses and certifications
+# Courses and certificates
+Completion and certificate documents for Data science, data engineering, and MLOps courses.
