@@ -1,6 +1,6 @@
 # DataCamp
 
-Courses and certifications completed at [DataCamp](www.datacamp.com). Additionally, I have listed below all content I have authored or designed/collaborated on.
+The table below contains a list of all content I have authored or designed/collaborated on at [DataCamp](www.datacamp.com). Within the directory are statements of accomplishments for courses and certifications that I have completed.
 
 | Name | Content Type | Contribution | Technology |
 |------|--------------|--------------|------------|
@@ -31,20 +31,20 @@ Courses and certifications completed at [DataCamp](www.datacamp.com). Additional
 | [Machine Learning Monitoring Concepts](https://app.datacamp.com/learn/courses/machine-learning-monitoring-concepts) | Course | Collaborator | Conceptual |
 | [Understanding Modern Data Architecture](https://app.datacamp.com/learn/courses/understanding-modern-data-architecture) | Course | Collaborator | Conceptual |
 | [Introduction to DevOps](https://app.datacamp.com/learn/courses/introduction-to-devops) | Course | Collaborator | Conceptual |
-| [Analyzing Crime in Los Angeles]() | Project | Author | Python |
-| Analyzing Online Sports Revenue | Project | Author | [Python](), [SQL]() |
-| Exploring London's Travel Network | Project | Author | [Snowflake](), [BigQuery](), [Redshift]() |
-| [Modeling Car Insurance Claim Outcomes]() | Project | Author | Python, R |
-| [Analyzing Unicorn Companies]() | Project | Author | PostgreSQL |
-| [Designing a Bank Marketing Database() | Project | Author | Python, PostgreSQL |
-| [Analyzing Motorcycle Part Sales]() | Project | Author | PostgreSQL |
-| [Consolidating Employee Data]() | Project | Author | Python |
-| [Predictive Modeling for Agriculture]() | Project | Collaborator | Python |
-| [Predicting Movie Rental Durations]() | Project | Collaborator | Python |
-| [Debugging a Sales Data Workflow]() | Project | Collaborator | Python |
-| [Building a Retail Data Pipeline]() | Project | Collaborator | Python, PostgreSQL |
-| [Predicting Temperature in London]() | Project | Collaborator | Python |
-| [Hypothesis Testing in Healthcare]() | Project | Collaborator | Python |
-| [Producing Soccer Insights for a Sports Media Agency]() | Project | Collaborator | Snowflake |
-| [Interpreting Unsupervised Learning Models]() | Project | Collaborator | Python |
-| [Performing a Code Review]() | Project | Collaborator | Python |
+| [Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876) | Project | Author | Python |
+| Analyzing Online Sports Revenue | Project | Author | [Python](https://app.datacamp.com/learn/projects/analyzing_online_sports_revenue), [SQL](https://app.datacamp.com/learn/projects/optimizing_online_revenue) |
+| [Exploring London's Travel Network](https://app.datacamp.com/learn/projects/exploring_londons_travel_network) | Project | Author | Snowflake, BigQuery, Redshift |
+| [Modeling Car Insurance Claim Outcomes](https://app.datacamp.com/learn/projects/modeling_car_insurance_claim_outcomes) | Project | Author | Python, R |
+| [Analyzing Unicorn Companies](https://app.datacamp.com/learn/projects/1531) | Project | Author | PostgreSQL |
+| [Designing a Bank Marketing Database](https://app.datacamp.com/learn/projects/1613) | Project | Author | Python, PostgreSQL |
+| [Analyzing Motorcycle Part Sales](https://app.datacamp.com/learn/projects/1574) | Project | Author | PostgreSQL |
+| [Consolidating Employee Data](https://app.datacamp.com/learn/projects/1574) | Project | Collaborator | Python |
+| [Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772) | Project | Collaborator | Python |
+| [Predicting Movie Rental Durations](https://app.datacamp.com/learn/projects/1796) | Project | Collaborator | Python |
+| [Debugging a Sales Data Workflow](https://app.datacamp.com/learn/projects/1931) | Project | Collaborator | Python |
+| [Building a Retail Data Pipeline](https://app.datacamp.com/learn/projects/1833) | Project | Collaborator | Python, PostgreSQL |
+| [Predicting Temperature in London](https://app.datacamp.com/learn/projects/predicting_temperature_in_london) | Project | Collaborator | Python |
+| [Hypothesis Testing in Healthcare](https://app.datacamp.com/learn/projects/1792) | Project | Collaborator | Python |
+| [Producing Soccer Insights for a Sports Media Agency](https://app.datacamp.com/learn/projects/1951) | Project | Collaborator | Snowflake |
+| [Interpreting Unsupervised Learning Models](https://app.datacamp.com/learn/projects/1809) | Project | Collaborator | Python |
+| [Performing a Code Review](https://app.datacamp.com/learn/projects/1879) | Project | Collaborator | Python |
